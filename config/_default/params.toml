@@ -93,7 +93,7 @@ email = "ap [dot] panagiotopoulos [at] gmail [dot] com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "github", icon_pack = "fab", name = "toliz", link = "github.com/toliz"},
+  {icon = "github", icon_pack = "fab", name = "toliz", link = "https://github.com/toliz"},
   {icon = "linkedin", icon_pack = "fab", name = "apostpanag", link = "https://www.linkedin.com/in/apostpanag/"},
   ]
 

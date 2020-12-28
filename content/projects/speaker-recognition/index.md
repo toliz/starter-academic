@@ -3,7 +3,7 @@ title: Speaker Recognition
 summary: Speaker Recognition and Verification software
 tags:
 - Speaker Recognition
-date: "2017-10-17T00:00:00Z"
+date: "2017-08-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 
