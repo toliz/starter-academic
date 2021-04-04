@@ -6,7 +6,7 @@ title: Apostolos Panagiotopoulos
 superuser: true
 
 # Role/position
-role: Electrical and Computer Engineer
+role: Deep Learning Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a Machine Learing Researcher at [Information Techonlogies Institute](https://www.iti.gr/iti/index.html) - CERTH, currently working on geolocation estimation.
+Hi! I am a Deep Learning Research Assistant at [Information Techonlogies Institute](https://www.iti.gr/iti/index.html) - CERTH, currently working on geolocation estimation.
 
 Prior to that I studied Electrical and Computer Engineering at [Aristotle University of Thessaloniki](https://www.iti.gr/iti/index.html), where I did my diploma thesis on *Zero and Few shot learning for Image Classification* with Professor [Christos Diou](https://mug.ee.auth.gr/people/christos-diou/)
